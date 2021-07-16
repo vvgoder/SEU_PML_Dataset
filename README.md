@@ -4,7 +4,7 @@
 ### Description
 SEU_PML Dataset is a Large and detailed dataset for monitoring-based traffic participants detection. 
 
-![image](https://github.com/vvgoder/SEU_PML_Dataset/tree/main/images/180.jpg)
+![image](./images/180.jpg)
 
 The proposed dataset contains **6,367 images** and **265,949 objects** and covers **4 super-categories** and **20 sub-categories**.
 
