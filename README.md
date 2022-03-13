@@ -2,7 +2,7 @@
 
 
 ### Simple introdution
-SEU_PML Dataset is a Large and detailed dataset for monitoring-based traffic participants detection, jointly proposed by ***Southeast University*** and ***Purple Mountain Laboratory***
+SEU_PML Dataset is a Large and detailed dataset for monitoring-based traffic participants detection, jointly proposed by ***Southeast University*** and ***Purple Mountain Laboratories***
 
 This dataset has been submitted to the journal ***Future Generation Computer Systems***
 
