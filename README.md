@@ -39,7 +39,7 @@ To encourage related research, we will provide the dataset according to your req
 All training images and their annotation as well as all test images are publicized now:
 
 - train set (all license plates are mosaicked off)  [[google drive](https://drive.google.com/file/d/1NIqFwzjCNVePM26psQ-sMtMe3viLDFPQ/view?usp=drive_link)]   [[Baidu drive (提取码：vmwq)](https://pan.baidu.com/s/1QgdWljryv55iYa4Bj21vbA)]  
-- test set (all license plates are mosaicked off)  [[google drive](https://drive.google.com/file/d/1Dwoa_A6anQjLaRQehoULEKQMY3KZSuBL/view?usp=drive_link)] [[Baidu drive  (提取码：47s8)](https://pan.baidu.com/s/1Y-R7byj8A7gD04VHzBqRtg)] 
+- test set (all license plates are mosaicked off)  [[google drive](https://drive.google.com/file/d/1Dwoa_A6anQjLaRQehoULEKQMY3KZSuBL/view?usp=drive_link)] [[Baidu drive  (提取码：52xx)](https://pan.baidu.com/s/1PGd171vsToFRGfP0d16Pfg)] 
 
 ### Note
 
