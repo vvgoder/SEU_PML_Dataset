@@ -38,8 +38,38 @@ To encourage related research, we will provide the dataset according to your req
 
 All training images and their annotation as well as all test images are publicized now:
 
-- train set (all license plates are mosaicked off)  [[google drive](https://drive.google.com/file/d/1NIqFwzjCNVePM26psQ-sMtMe3viLDFPQ/view?usp=drive_link)]   [[Baidu drive (提取码：vmwq)](https://pan.baidu.com/s/1QgdWljryv55iYa4Bj21vbA)]  
+- train set (all license plates are mosaicked off)  [[google drive](https://drive.google.com/file/d/1NIqFwzjCNVePM26psQ-sMtMe3viLDFPQ/view?usp=drive_link)]   [[Baidu drive (提取码：vmwq)](https://pan.baidu.com/s/1QgdWljryv55iYa4Bj21vbA)]
+  - [sub-category annotation](https://drive.google.com/file/d/1XYaYakdVfIFhJ8xM4oj-Dfw5S8wT9UI_/view?usp=drive_link) 
 - test set (all license plates are mosaicked off)  [[google drive](https://drive.google.com/file/d/1Dwoa_A6anQjLaRQehoULEKQMY3KZSuBL/view?usp=drive_link)] [[Baidu drive  (提取码：52xx)](https://pan.baidu.com/s/1PGd171vsToFRGfP0d16Pfg)] 
+
+### Annotation explanation
+
+The category mapping of super-category annotation is:
+
+| Class ID             | Class            |
+|-----------------|------------------|
+| 0               | Person           |
+| 1               | Motor Vehicle    |
+| 2               | Non-Motor Vehicle|
+| 3               | Privacy          |
+
+The category mapping of sub-category annotation is:
+
+|  Class ID | Class             |
+|-----|--------------------|
+| 0   | traffic police     |
+| 1   | sanitation worker  |
+| 2   | general pedestrian |
+| 3   | car                |
+| 4   | truck              |
+| 5   | coach              |
+| 6   | bus                |
+| 7   | special vehicle    |
+| 8   | construction vehicle|
+| 9   | tricycle           |
+| 10  | bicycle            |
+| 11  | electric bicycle   |
+| 12  | license plate      |
 
 ### Note
 
