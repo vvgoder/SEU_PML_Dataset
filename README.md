@@ -38,8 +38,10 @@ To encourage related research, we will provide the dataset according to your req
 
 All training images and their annotation as well as all test images are publicized now:
 
-- train set (all license plates are mosaicked off)  [[google drive](https://drive.google.com/file/d/1NIqFwzjCNVePM26psQ-sMtMe3viLDFPQ/view?usp=drive_link)]   [[Baidu drive (提取码：vmwq)](https://pan.baidu.com/s/1QgdWljryv55iYa4Bj21vbA)]
-  - [sub-category annotation](https://drive.google.com/file/d/1XYaYakdVfIFhJ8xM4oj-Dfw5S8wT9UI_/view?usp=drive_link) 
+- training set (all license plates are mosaicked off)  [[google drive](https://drive.google.com/file/d/1NIqFwzjCNVePM26psQ-sMtMe3viLDFPQ/view?usp=drive_link)]   [[Baidu drive (提取码：vmwq)](https://pan.baidu.com/s/1QgdWljryv55iYa4Bj21vbA)]
+  - [sub-category annotation](https://drive.google.com/file/d/1XYaYakdVfIFhJ8xM4oj-Dfw5S8wT9UI_/view?usp=drive_link)
+  - [Image names (training set) ](https://drive.google.com/file/d/158Lh6u3ZLIPVjs0OFMjK013j4Dmyr46g/view?usp=drive_link)
+  - [Image names (validation set) ](https://drive.google.com/file/d/1pLweCo70-l9EcVMaptSHk21dXnBXfGzS/view?usp=drive_link)
 - test set (all license plates are mosaicked off)  [[google drive](https://drive.google.com/file/d/1Dwoa_A6anQjLaRQehoULEKQMY3KZSuBL/view?usp=drive_link)] [[Baidu drive  (提取码：52xx)](https://pan.baidu.com/s/1PGd171vsToFRGfP0d16Pfg)] 
 
 ### Annotation explanation
